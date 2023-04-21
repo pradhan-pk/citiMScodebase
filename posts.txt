@@ -1,0 +1,26 @@
+{
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwa3AiLCJpc3MiOiJST0xFX1VTRVIgIiwiaWF0IjoxNjgyMDY4NzczLCJleHAiOjE2ODIwNjg4OTN9.GQAOm9K5aBXuXCWW39Wcly9aGO5rzLzC1tQwmSSfHSUD3cONY7xAtjf3P9LrC_xIuz2gedSoTzuk8eyCVCp7BA",
+    "type": "Bearer",
+    "refreshToken": "5617b829-8ff8-4a07-9305-bf273fab7017",
+    "id": 1,
+    "username": "pkp",
+    "email": "pkp@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+
+
+
+{
+    "name":"ipad",
+    "price":20000,
+    "quantity":95
+}
+
+
+{
+    "username":"pkp",
+    "email":"pkp@gmail.com",
+    "password":"pkp123"
+}
